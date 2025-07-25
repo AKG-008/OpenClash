@@ -1,10 +1,18 @@
-  - domain: plex.tv
-  - domain: plex.direct
-  - domain: plex.bz
-  - domain: metadata.provider.plex.tv
-  - domain: pubsub.plex.tv
-  - domain: photos.plex.tv
-  - domain: cpms35.plex.tv
-  - domain: app.plex.tv
-  - domain: tiktokv.com
-  - domain: gravatar.com
+# NAME: PLEX
+# AUTHOR: Dylan
+# REPO: https://github.com/your-repo/plex_rules
+# UPDATED: 2025-07-25 10:00:00
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 5
+# TOTAL: 11
+DOMAIN,plex.tv
+DOMAIN,cdn.plex.tv
+DOMAIN,metadata.provider.plex.tv
+DOMAIN,analytics.plex.tv
+DOMAIN,pubsub.plex.tv
+DOMAIN,photos.plex.tv
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,plex.bz
+DOMAIN-SUFFIX,cpms35.plex.tv
+DOMAIN-SUFFIX,app.plex.tv
