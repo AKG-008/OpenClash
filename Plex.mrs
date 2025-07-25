@@ -1,5 +1,3 @@
-# plex.mrs
-payload:
   - domain: plex.tv
   - domain: plex.direct
   - domain: plex.bz
