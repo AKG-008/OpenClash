@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/dylanli699-hue/metric/refs/heads/main/metric.txt
 104.17.30.196:443#HK 电信优选[56ms]
 104.17.25.242:443#HK 电信优选[62ms]
 104.17.222.32:443#HK 电信优选[65ms]
